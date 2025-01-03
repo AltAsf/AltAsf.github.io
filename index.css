@@ -128,32 +128,3 @@
 }.u-section-3 .u-sheet-1 {
   min-height: 417px;
 }
-
-.u-section-3 .u-text-1 {
-  margin: 20px 0 0 661px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-3 .u-text-1 {
-    margin-left: 461px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-3 .u-text-1 {
-    margin-left: 241px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-3 .u-text-1 {
-    margin-bottom: 60px;
-    margin-left: 61px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-3 .u-text-1 {
-    margin-left: 0;
-  }
-}
